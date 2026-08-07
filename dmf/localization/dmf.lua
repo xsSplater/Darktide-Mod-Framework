@@ -113,7 +113,7 @@ return {
   show_developer_console_description = {
     en = "Opens up the new window showing game log in real time.",
     es = "Abre una ventana que muestra el registro (log) del juego en tiempo real.",
-    ru = "Открывается новое окно, отображающее игровой лог в реальном времени.",
+    ru = "Открывает новое окно, отображающее игровой лог в реальном времени.",
     ["zh-cn"] = "在一个新窗口中显示游戏实时日志。",
     ja = "ゲームのログをリアルタイムで表示する新たなウィンドウを開きます。",
   },
